@@ -19,6 +19,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkothiyal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vaibhavkothiyal&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
+<hr></hr>
 
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>

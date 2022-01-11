@@ -32,13 +32,8 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔My journey from being a gamer to becoming a Full Stack Web Developer has been interesting and challenging. I remember that during my childhood, I was always interested in computers. I remember the very first day I saw a computer in my school, and how excited I was. My path to becoming a web developer began since then, even though all I was doing at that time was playing games, using paint and Microsoft word.
+✔Aspiring full - stack Web developer seeking a challenging position in a technical organisation to utilize his skills and contribute to the organization's with a specialization in MERN stack. Hard working with ability to work under pressure. Besides coding, I love riding bikes and love to be close to nature.
 
-One day, I witnessed my cousin working on his computer, he seemed to be writing something. However, it did not look like he was writing a document, so I asked him. He was the one who introduced me to the world of coding.
-
-During the lockdown, I was searching for online and offline courses to learn full stack web development. The goal was clear in my mind - I wanted to learn and enhance real-world software development skills. I was lucky to find Masai School after a short while. Now, I am learning MERN stack, data structures, algorithms, and soft skills at Masai school. As a developer my hunger for learning new technologies has increased continuously. This has led me to become an expert in MongoDb, Express.js, React, Node.js, Vanilla JavaScript, HTML, CSS, Npm, Redis, Python.
-
-Besides coding, I love riding bikes and love to be close to nature.
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently learning about **deep learning**🥰<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
